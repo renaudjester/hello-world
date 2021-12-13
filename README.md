@@ -1,7 +1,7 @@
 # hello-world
 Little Presentation
 
-# Hi everyone, love you
+# Hi everyone
 
 If you want to see some of the repository I worked on last year (here, it is only couple of examples since the other repositories I worked on are private): 
 - https://github.com/centralelyon/synchro_temp_start_detection
